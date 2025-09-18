@@ -24,7 +24,7 @@ Hi! I'm Shrirang Dive, a professional with experience in IT Support, Quality Con
 - **Live Demo:** [Click here](https://shrirang-portfolio-2025.s3.ap-south-1.amazonaws.com/index.html)
 
 ### 2. (Your next project)
-- **Description:** Short description of the project.
+- **Description:** Hosted a static portfolio website on AWS S3 with bucket policy and enabled public access
 - **Technologies:** List technologies used.
 - **Live Demo / Repo:** Add link here.
 
@@ -32,7 +32,7 @@ Hi! I'm Shrirang Dive, a professional with experience in IT Support, Quality Con
 
 ## 📫 Contact Me
 
-- **Email:** your.email@example.com  
+- **Email:** shrirangdive@gmail.com  
 - **GitHub:** [Shrirang16](https://github.com/Shrirang16)  
 - **LinkedIn:** Add your LinkedIn profile link  
 
